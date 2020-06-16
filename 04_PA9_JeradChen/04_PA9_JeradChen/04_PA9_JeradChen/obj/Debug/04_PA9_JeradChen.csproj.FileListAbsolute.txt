@@ -1,0 +1,10 @@
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\bin\Debug\04_PA9_JeradChen.exe.config
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\bin\Debug\04_PA9_JeradChen.exe
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\bin\Debug\04_PA9_JeradChen.pdb
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\obj\Debug\04_PA9_JeradChen.csprojAssemblyReference.cache
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\obj\Debug\_04_PA9_JeradChen.Form1.resources
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\obj\Debug\_04_PA9_JeradChen.Properties.Resources.resources
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\obj\Debug\04_PA9_JeradChen.csproj.GenerateResource.cache
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\obj\Debug\04_PA9_JeradChen.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\obj\Debug\04_PA9_JeradChen.exe
+C:\Users\Jake\Desktop\School\Term 3\GIT\Year 2 - June\PA09\04_PA9_JeradChen\04_PA9_JeradChen\04_PA9_JeradChen\obj\Debug\04_PA9_JeradChen.pdb
